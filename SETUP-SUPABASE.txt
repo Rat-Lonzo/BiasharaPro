@@ -1,0 +1,12 @@
+BIASHARAPRO — HATUA YA KUWASHA DATABASE
+
+1. Fungua https://supabase.com/dashboard
+2. Chagua project yako BiasharaPro.
+3. Fungua SQL Editor.
+4. Bonyeza New query.
+5. Fungua supabase/schema.sql ndani ya ZIP hii.
+6. Nakili SQL yote na uibandike kwenye SQL Editor.
+7. Bonyeza RUN.
+8. Ukiona Success, database tables na ulinzi wa RLS vimewekwa.
+
+Kisha niambie kama SQL imeonyesha Success au imeleta error. Usinitumie password, Secret Key au service_role key.
